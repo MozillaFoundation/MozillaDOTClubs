@@ -11,4 +11,4 @@ This is an evolving project with a growing number of collaborators, which includ
 * [Blog Post](https://medium.com/@amirad/training-leaders-with-mozilla-in-nairobi-and-dar-es-salaam-cae38f1ed12e)
 * [Google Folder (Permission to access required)](https://drive.google.com/drive/folders/0B5ga06pZVp55b2VGRlJXS2libXc?usp=sharing)
 
-![alt text](https://github.com/jvallera/MozillaDOTClubs/images/Kenyagroup.jpg "Mozilla DOT Clubs Training in Nairobi, Kenya 2017")
+![alt text]( MozillaDOTClubs/images/Kenyagroup.jpg "Mozilla DOT Clubs Training in Nairobi, Kenya 2017")
