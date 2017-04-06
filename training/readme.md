@@ -2,14 +2,14 @@
 
 ## Table of contents
 <dl>
-<dt>Background (page 1 - 4)</dt>
-<dt>About (page 5)</dt>
-<dt>Agenda (page 6 - 9)</dt>
-<dt>Getting to know Mozilla (page 10 - 15)</dt>
-<dd>What is working open? (page 16 - 28)</dd>
-<dd>Welcome to Clubs (page 29 - 38)</dd>
-<dd>Mozilla Clubs Planning (page 39 - 44)</dd>
-<dt>Tools and Resources (page 45)</dt>
+<dt>Background</dt>
+<dt>About</dt>
+<dt>Agenda</dt>
+<dt>Getting to know Mozilla</dt>
+<dd>What is working open?</dd>
+<dd>Welcome to Clubs</dd>
+<dd>Mozilla Clubs Planning</dd>
+<dt>Tools and Resources</dt>
 </dl>
 
 ## Background
