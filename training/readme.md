@@ -1,17 +1,5 @@
 # Mozilla DOT Club Leader Training March 2017
 
-## Table of contents
-<dl>
-<dt>Background</dt>
-<dt>About</dt>
-<dt>Agenda</dt>
-<dt>Getting to know Mozilla</dt>
-<dd>What is working open?</dd>
-<dd>Welcome to Clubs</dd>
-<dd>Mozilla Clubs Planning</dd>
-<dt>Tools and Resources</dt>
-</dl>
-
 ## Background
 A description of the benefits of the Mozilla Clubs initiative and why Clubs are an integral component of the DOT Digital Champion program. 
 
